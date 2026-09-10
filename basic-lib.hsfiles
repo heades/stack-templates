@@ -2,7 +2,7 @@
 cabal-version:       2.2
 name:                {{name}}
 version:             0.1.0.0
-category:            {{category}}{{^category}}Web{{/category}}
+category:            {{category}}{{^category}}TODO{{/category}}
 license:             BSD-3-Clause
 license-file:        LICENSE
 author:              {{author-name}}{{^author-name}}Author name here{{/author-name}}
